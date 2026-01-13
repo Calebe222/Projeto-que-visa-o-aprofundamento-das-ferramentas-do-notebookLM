@@ -28,6 +28,8 @@ A partir dessas fontes, a ferramenta foi utilizada para gerar:
 - 🖼️ Infográfico
 - 🧩 Mapa mental
 
+Não possível anexar todos os arquivos, devido ao tamanho que excede o limite do github
+
 Todo o conteúdo deriva **exclusivamente** das fontes fornecidas, garantindo fidelidade conceitual aos ensinamentos originais de Benjamin Graham.
 
 ---
